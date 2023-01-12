@@ -1,0 +1,348 @@
+@media (max-width: 576px) {
+  .container {
+    width: 90%;
+  }
+  #hero .hero h1 {
+    font-weight: 700;
+    font-size: 30px;
+    line-height: 44px;
+    color: #FFFFFF;
+  }
+  #hero .hero fieldset {
+    width: 407px;
+    height: 35px;
+    border: 1px solid #FFFFFF;
+    border-radius: 10px;
+    display: flex;
+    align-items: center;
+    font-size: 15px;
+    margin: 21px 0;
+  }
+  #hero .hero--pay {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+  }
+  #hero .hero--pay__visa {
+    width: 175px;
+    height: 42px;
+    left: 397px;
+    top: 776px;
+    border: 1px solid #FFFFFF;
+    display: flex;
+    border-radius: 4px;
+  }
+  #hero .hero--pay__visa--block__line {
+    width: 18px;
+    height: 18px;
+    border-radius: 50%;
+    border: 1px solid white;
+    background: transparent;
+    margin: 0 25px;
+  }
+  #hero .hero--pay__visa--block h4 {
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 24px;
+    color: #FFFFFF;
+  }
+  #hero .hero--pay__card {
+    width: 175px;
+    height: 42px;
+    left: 397px;
+    top: 776px;
+    border: 1px solid #FFFFFF;
+    display: flex;
+    border-radius: 4px;
+    margin-right: 10px;
+  }
+  #hero .hero--pay__card--block__line {
+    width: 18px;
+    height: 18px;
+    border-radius: 50%;
+    border: 1px solid white;
+    background: transparent;
+    margin: 0 25px;
+  }
+  #hero .hero--pay__card--block h4 {
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 24px;
+    color: #FFFFFF;
+  }
+  #hero .hero--service fieldset {
+    width: 176px;
+    height: 30px;
+    margin-right: 10px;
+  }
+  #hero .hero--agree__click {
+    width: 26px;
+    height: 26px;
+    left: 397px;
+    top: 1108px;
+    border: 1px solid #FFFFFF;
+    border-radius: 5px;
+  }
+  #hero .hero--agree h4 {
+    margin-right: 28px;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 24px;
+    color: #FFFFFF;
+  }
+  #hero .hero--button button {
+    width: 430px;
+    height: 41px;
+    background: #04437B;
+    backdrop-filter: blur(7.5px);
+    border-radius: 10px;
+    color: white;
+    border: none;
+    font-size: 17px;
+  }
+  #hero .hero--text h3 {
+    font-weight: 200;
+    font-size: 19px;
+    line-height: 29px;
+    color: #FFFFFF;
+  }
+  #hero .hero--follow p {
+    font-weight: 600;
+    font-size: 22px;
+    line-height: 29px;
+    color: #FFFFFF;
+  }
+  #hero .hero--follow button {
+    width: 250.72px;
+    height: 44px;
+    margin: 15px 0;
+    background: #0A1128;
+    box-shadow: 10px 10px 22px -117px #132049, -4px -3px 25px #040b23;
+    border-radius: 10px;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 29px;
+    border: none;
+    color: #FFFFFF;
+  }
+  #hero .hero--follow h3 {
+    display: flex;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 29px;
+    color: #FFFFFF;
+  }
+}
+@media (max-width: 376px) {
+  .container {
+    width: 90%;
+  }
+  #hero .hero h1 {
+    font-weight: 700;
+    font-size: 30px;
+    line-height: 44px;
+    color: #FFFFFF;
+  }
+  #hero .hero fieldset {
+    width: 300px;
+    height: 30px;
+    border: 1px solid #FFFFFF;
+    border-radius: 10px;
+    display: flex;
+    align-items: center;
+    font-size: 15px;
+    margin: 18px 0;
+  }
+  #hero .hero fieldset input {
+    background: transparent;
+    color: white;
+    border: none;
+    outline: none;
+    width: 288px;
+    padding: 5px 5px;
+  }
+  #hero .hero--pay {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+  }
+  #hero .hero--pay__visa {
+    width: 140px;
+    height: 35px;
+    left: 397px;
+    top: 776px;
+    border: 1px solid #FFFFFF;
+    display: flex;
+    border-radius: 4px;
+  }
+  #hero .hero--pay__visa--block__line {
+    width: 18px;
+    height: 18px;
+    border-radius: 50%;
+    border: 1px solid white;
+    background: transparent;
+    margin: 0px 10px;
+  }
+  #hero .hero--pay__visa--block h4 {
+    font-weight: 500;
+    font-size: 15px;
+    line-height: 24px;
+    color: #FFFFFF;
+  }
+  #hero .hero--pay__card {
+    width: 140px;
+    height: 35px;
+    left: 397px;
+    top: 776px;
+    border: 1px solid #FFFFFF;
+    display: flex;
+    border-radius: 4px;
+  }
+  #hero .hero--pay__card--block__line {
+    width: 18px;
+    height: 18px;
+    border-radius: 50%;
+    border: 1px solid white;
+    background: transparent;
+    margin: 0px 10px;
+  }
+  #hero .hero--pay__card--block h4 {
+    font-weight: 500;
+    font-size: 15px;
+    line-height: 24px;
+    color: #FFFFFF;
+  }
+  #hero .hero--service {
+    flex-direction: column;
+  }
+  #hero .hero--service fieldset {
+    width: 176px;
+    height: 30px;
+  }
+  #hero .hero--agree__click {
+    width: 20px;
+    height: 20px;
+    border: 1px solid #FFFFFF;
+    border-radius: 5px;
+  }
+  #hero .hero--agree h4 {
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 24px;
+    color: #FFFFFF;
+    margin-right: 1px;
+  }
+  #hero .hero--button button {
+    width: 323px;
+    height: 41px;
+    background: #04437B;
+    backdrop-filter: blur(7.5px);
+    border-radius: 10px;
+    color: white;
+    border: none;
+    font-size: 17px;
+  }
+  #hero .hero--text h3 {
+    font-weight: 200;
+    font-size: 15px;
+    line-height: 29px;
+    color: #FFFFFF;
+  }
+  #hero .hero--follow p {
+    font-weight: 600;
+    font-size: 22px;
+    line-height: 29px;
+    color: #FFFFFF;
+  }
+  #hero .hero--follow button {
+    width: 250.72px;
+    height: 44px;
+    margin: 15px 0;
+    background: #0A1128;
+    box-shadow: 10px 10px 22px -117px #132049, -4px -3px 25px #040b23;
+    border-radius: 10px;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 29px;
+    border: none;
+    color: #FFFFFF;
+  }
+  #hero .hero--follow h3 {
+    display: flex;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 29px;
+    color: #FFFFFF;
+  }
+}
+@media (max-width: 320px) {
+  #hero .hero fieldset {
+    width: 249px;
+    height: 30px;
+    border: 1px solid #FFFFFF;
+    border-radius: 10px;
+    display: flex;
+    align-items: center;
+    font-size: 15px;
+    margin: 18px 0;
+  }
+  #hero .hero fieldset input {
+    background: transparent;
+    color: white;
+    border: none;
+    outline: none;
+    width: 230px;
+    padding: 5px 5px;
+  }
+  #hero .hero--pay__visa {
+    width: 115px;
+    height: 35px;
+    left: 397px;
+    top: 776px;
+    border: 1px solid #FFFFFF;
+    display: flex;
+    border-radius: 4px;
+  }
+  #hero .hero--pay__card {
+    width: 115px;
+    height: 35px;
+    left: 397px;
+    top: 776px;
+    border: 1px solid #FFFFFF;
+    display: flex;
+    border-radius: 4px;
+    margin-right: 0;
+  }
+  #hero .hero--agree h4 {
+    font-weight: 400;
+    font-size: 10px;
+    line-height: 24px;
+    color: #FFFFFF;
+    margin-right: 1px;
+  }
+  #hero .hero--button button {
+    width: 268px;
+    height: 41px;
+    background: #04437B;
+    backdrop-filter: blur(7.5px);
+    border-radius: 10px;
+    color: white;
+    border: none;
+    font-size: 17px;
+  }
+  #hero .hero--text h3 {
+    font-weight: 200;
+    font-size: 17px;
+    line-height: 29px;
+    color: #FFFFFF;
+  }
+  #hero .hero--follow h3 {
+    display: flex;
+    font-weight: 400;
+    font-size: 19px;
+    line-height: 29px;
+    color: #FFFFFF;
+  }
+}
+
+/*# sourceMappingURL=media.css.map */
